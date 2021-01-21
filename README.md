@@ -22,5 +22,5 @@ As with any webpage there are certain drawbacks and room for improvements.
 
 ### Future Developments
 
-- As stated in the drawback section, including wildcard search would make it more user friendly
+- As stated in the drawback section, including wildcard search would make it more user friendly.
 - Since the website is about UFO's, it would be good to include few additional articles regarding the UFO sightings.
