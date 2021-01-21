@@ -1,6 +1,26 @@
-# UFOs, The Truth is Out There
-<h2>Overview</h2>
-<p>Dana would like to provide a more in-depth analysis of UFO sightings by allowing users to filter for multiple criteria at the same time. In addition to the date, you’ll add table filters for the city, state, country, and shape.</p>
-<h2>Results</h2>
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/calebten/UFOs/blob/master/static/images/scrnsht.png"><img src="https://github.com/calebten/UFOs/raw/master/static/images/scrnsht.png" alt="" style="max-width:100%;"></a>
-<h2>Summary</h2>
+# Webpage development using HTML, JavaScript and D3
+
+## Overview
+
+The purpose of this project is create a webpage using html, javascript and D3 to display the list of UFO sightings. The webpage also has a filter section, which enables users to filter data based on different criteria.
+
+
+## Results
+
+Due to the high volume of UFO sighting data, a section to filter the data has been provided on the webpage as shown in the image below. Users can type in either one or multiple fields to narrow down the search results.
+
+![Comparison](https://github.com/calebten/UFOs/blob/master/static/images/scrnsht.png)
+
+
+## Summary
+
+As with any webpage there are certain drawbacks and room for improvements.
+
+### Drawbacks
+
+- The website does not allow for wildcard search. For example, to search for the city "El Cajon", users have to type "El Cajon" in city. Just searching for "Cajon" would not return any results.
+
+### Future Developments
+
+- As stated in the drawback section, including wildcard search would make it more user friendly
+- Since the website is about UFO's, it would be good to include few additional articles regarding the UFO sightings.
