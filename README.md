@@ -1,4 +1,4 @@
-# Webpage development using HTML, JavaScript and D3
+# Webpage development using JavaScript
 
 ## Overview
 
